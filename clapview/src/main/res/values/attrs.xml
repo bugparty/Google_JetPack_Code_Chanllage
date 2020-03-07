@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClapView">
+        <attr name="bg_color" format="color" />
+        <attr name="stoke_color" format="color" />
+        <attr name="total_progress" format="integer" />
+    </declare-styleable>
+</resources>

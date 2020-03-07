@@ -1,0 +1,3 @@
+rootProject.name='ClapAnimation'
+include ':app'
+include ':clapview'
